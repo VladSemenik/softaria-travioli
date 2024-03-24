@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/softaria-travioli/static/css/main.9b8a37fc.css",
+    "main.js": "/softaria-travioli/static/js/main.cf157a1e.js",
+    "static/js/453.78df6d48.chunk.js": "/softaria-travioli/static/js/453.78df6d48.chunk.js",
+    "index.html": "/softaria-travioli/index.html",
+    "main.9b8a37fc.css.map": "/softaria-travioli/static/css/main.9b8a37fc.css.map",
+    "main.cf157a1e.js.map": "/softaria-travioli/static/js/main.cf157a1e.js.map",
+    "453.78df6d48.chunk.js.map": "/softaria-travioli/static/js/453.78df6d48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b8a37fc.css",
+    "static/js/main.cf157a1e.js"
+  ]
+}
